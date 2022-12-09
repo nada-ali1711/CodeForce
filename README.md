@@ -1,2 +1,2 @@
 # CodeForce
-impelementation of c++
+impelementation of c++ participate in contests in codeforces
