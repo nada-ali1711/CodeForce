@@ -4,11 +4,12 @@ using namespace std;
 
 int main()
 {
-    long long n;
+    unsigned long long n,odd_sum;
 
     cin>>n;
-    if(n>0)
-    cout<<(n*(n-1)/2)-(n-2);
+    odd_sum=(((n+1)/2)*((n+1)/2));
+
+    cout<<odd_sum;
 
 
 
